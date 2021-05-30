@@ -19,3 +19,9 @@ naboo = Planet("Naboo", 300000, 8, "Naboo System")
 
 print(naboo.rad())
 print(naboo.orbit())
+
+
+listy = [1,2,3,4,5]
+
+for num in listy: 
+    print(num)
